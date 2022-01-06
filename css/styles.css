@@ -1,0 +1,23 @@
+.column {
+  width: 400px;
+  float: right;
+}
+
+img {
+  width: 300px;
+  height: 200px;
+}
+h2 {
+  font-weight: bold;
+}
+.column p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  font-size: larger;
+}
+
+h1 {
+  text-align: center;
+}
